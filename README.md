@@ -65,9 +65,7 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github.com/esraa-gamal1/esraa-gamal1/blob/output/github-contribution-grid-snake.svg"/>
-
+![snake gif](https://github.com/esraa-gamal1/esraa-gamal1/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
