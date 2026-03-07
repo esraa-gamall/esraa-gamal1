@@ -15,7 +15,7 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 📫 How to reach me "esraagamal2627%40gmail.com"
+- 📫 How to reach me ["esraagamal2627%40gmail.com"](https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act&gar=WzJd#:~:text=Esraa%20Gamal-,esraagamal2627%40gmail.com,-search)
 - 💬 Ask me about **C++, OOP, Data Structures, Algorithms & Problem Solving**
 - 🌱 I’m currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Dev**
 - ❤️ I love coding and exploring new tools
