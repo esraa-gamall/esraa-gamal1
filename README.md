@@ -17,12 +17,11 @@
 
 - 💬 Ask me about **C++, OOP, Data Structures, Algorithms, and Problem Solving**
 - 🌱 Currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Development**
-- 🎯 Goal: Becoming a professional **Software Developer**
+- 🎯 Goal **Becoming a professional Software Developer**
 - ❤️ Passionate about coding and continuously exploring new technologies
 - ⚡ Fun fact: **I enjoy solving complex and challenging problems 💡**
-- 📍 Following this roadmap to improve my development skills:  
-  https://programmingadvices.com/p/roadmap
-
+- 📍 Following this roadmap **ProgrammingAdvices Roadmap**
+ 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
 <p align="left">
@@ -77,20 +76,5 @@
 ## ✍️ Random Dev Quote
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
