@@ -59,24 +59,23 @@
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats:**
 
-<p align="center">
+<div align="center" >
+<a  href="https://github.com/esraa-gamall">
 
-<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://raw.githubusercontent.com/esraa-gamall/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/esraa-gamall/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/esraa-gamall/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&layout=compact&theme=github_dark&langs_count=8" height="170"/>
+</a>
 
-</p>
-# 📊 GitHub Metrics Dashboard
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/esraa-gamall/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esraa-gamall&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esraa-gamall&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esraa-gamall&theme=tokyonight"/>
-
-</p>
+</details>
+  
+<hr></hr>
 
 
 # 🐍 Contribution Snake
