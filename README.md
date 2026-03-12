@@ -22,7 +22,7 @@
 - 🎯 Goal: **Becoming a professional Software Developer**
 - ❤️ Passionate about coding and exploring new technologies
 - ⚡ Fun fact: **I enjoy solving complex and challenging problems 💡**
-- 📍 Following **ProgrammingAdvices Development Roadmap**
+
 
 ---
 
